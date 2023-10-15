@@ -1,0 +1,12 @@
+{
+  "myBudget": [
+    {"title": "Food", "budget": 100, "color": "#FF5733"},
+    {"title": "Rent", "budget": 460, "color": "#33FF57"},
+    {"title": "Groceries", "budget": 90, "color": "#5733FF"},
+    {"title": "Insurance", "budget": 120, "color": "#FFFF33"},
+    {"title": "Entertainment", "budget": 100, "color": "#FF33F6"},
+    {"title": "Health", "budget": 80, "color": "#33FFF6"},
+    {"title": "Car", "budget": 300, "color": "#F633FF"},
+    {"title": "EMI", "budget": 60, "color": "#FF8C33"}
+  ]
+}
